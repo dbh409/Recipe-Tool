@@ -2,6 +2,7 @@ from time import sleep
 
 import random
 import numpy as np
+import DB_Util as db
 
 meals = ['meatballs', 'meatloaf', 'tuna casserole',
    'lumberjack casserole', 'scalloped potatoes', 'egg salad',
